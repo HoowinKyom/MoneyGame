@@ -4,7 +4,7 @@
 ========================
 
 Welcome to the Money Game!
-
+Virus total: https://www.virustotal.com/gui/file/03e18fc78a3ebc7028e1a37289cd83f827c8e2fecaf57287440668df6411f9b5 (They're false positives.)
 Instructions:
 1. Use the arrow keys to move the Block.
 2. Avoid incoming obstacles to increase your score.
