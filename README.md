@@ -12,6 +12,7 @@ Instructions:
 
 Prizes:
 Every 300points = 50$ 
+MUST RECORD. Nah you won't be able to modify anything even tho you have the src.
 
 To Run the Game:
 1. Make sure you have Python installed on your computer. If not, you can download it from https://www.python.org/.
