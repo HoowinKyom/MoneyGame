@@ -21,5 +21,6 @@ To Run the Game:
 3. Download the Money Game
 4. Open the Game 
 5. Enjoy playing the game and compete for the prizes!
+6. Each failed try = 1$ to me 🤑
 
 ds: iteriventaustionewaynarbandicus
